@@ -1,0 +1,18 @@
+{
+  "id": 897,
+  "added_by": "jacekchess",
+  "data_name": "colleges_aaup",
+  "source": "openml",
+  "target": "binaryClass",
+  "number_of_instances": 1161,
+  "number_of_features": 15,
+  "number_of_numeric_features": 12,
+  "number_of_categorical_features": 3,
+  "number_of_missings": 256,
+  "number_of_instances_with_missings": 87,
+  "number_of_features_with_missings": 6,
+  "number_of_numeric_features_with_missings": 6,
+  "numeric_features_with_missings": ["Average_salary.full_professors", "Average_salary.associate_professors", "Average_salary.assistant_professors", "Average_compensation.full_professors", "Average_compensation.associate_professors", "Average_compensation.assistant_professors"],
+  "number_of_categorical_features_with_missings": 0,
+  "categorical_features_with_missings": []
+}
